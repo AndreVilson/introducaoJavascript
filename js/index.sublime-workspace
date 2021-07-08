@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"f",
+				"fillStyle"
+			],
+			[
+				"if",
+				"if"
+			],
+			[
+				"s",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/Javascript/exercicios.html",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/LógicaI/idade_filhas.html",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/LógicaI/fugencio_troca.html",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/LógicaI/jogo_advinha.html",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/Javascript/introducao-javascript/index.html",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/HTML5 e CSS3 -01/index.html",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/HTML5 e CSS3 -01/produtos.html",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/HTML5 e CSS3 -01/produtos.css",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/HTML5 e CSS3 -01/style.css",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/HTML5 e CSS3 -01/reset.css",
+		"/home/andre/Área de Trabalho/Alura/Formação Lógica de Programação/HTML5 e CSS3 -01/cores",
+		"/home/andre/Documentos/Hiring Coders/JavaScript/book_class.html",
+		"/home/andre/Documentos/Hiring Coders/JavaScript/fizzBuzz.html",
+		"/home/andre/Documentos/Hiring Coders/JavaScript/reverse_string.html",
+		"/home/andre/Documentos/Hiring Coders/JavaScript/Convert.html",
+		"/home/andre/Área de Trabalho/Formação Lógica de Programação/LógicaI/media_dos_eventos.html",
+		"/home/andre/Área de Trabalho/Formação Lógica de Programação/HTML5 e CSS3 -01/style.css",
+		"/home/andre/Área de Trabalho/Formação Lógica de Programação/HTML5 e CSS3 -01/index.html",
+		"/home/andre/Documentos/Hiring Coders/HTML/exemplo.html",
+		"/home/andre/Documentos/Hiring Coders/HTML/exemplo_inicial.html",
+		"/home/andre/Área de Trabalho/Formação Lógica de Programação/LógicaII/bolinha_pulsando.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/troca_bandeira.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bolinha_movimento.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bolinha_pulsando.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bolinha_ida_volta.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/joguinho_alvo.html",
+		"/home/andre/Área de Trabalho/Formação Lógica de Programação/LógicaII/exercicio.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/exercicio.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/programaIV.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/desenhe_obras.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bolinha_mouse_gabarito.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/grafico_barra.html",
+		"/home/andre/Área de Trabalho/Lógica/fracao.html",
+		"/home/andre/Área de Trabalho/Lógica/adivinha_array.html",
+		"/home/andre/Documentos/Hiring Coders/HTML/untitled",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bolinha_alvo.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bolinha_mouse.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bolinha_aumenta.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bolinhas_tamanho.html",
+		"/home/andre/Área de Trabalho/Lógica/numero_impresso.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/desenha_flor.html",
+		"/home/andre/Área de Trabalho/Lógica/programaII.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bolinhas_cores.html",
+		"/home/andre/Área de Trabalho/Lógica/Tabuada_while.html",
+		"/home/andre/Área de Trabalho/Lógica/exer.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/esquadroII.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/esquadroII_gabarito.html",
+		"/home/andre/Área de Trabalho/Lógica/fugencio_troca.html",
+		"/home/andre/Área de Trabalho/Lógica/estrelas.html",
+		"/home/andre/Área de Trabalho/Lógica/tabuada_5.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/programaIII.html",
+		"/home/andre/Área de Trabalho/Lógica/greeper.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/bandeira_brasil.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/esquadro.html",
+		"/home/andre/Área de Trabalho/Lógica/LógicaII/esquadro2.html",
+		"/home/andre/Área de Trabalho/Lógica/exibe_texto.html",
+		"/home/andre/Área de Trabalho/Lógica/adivinha_mais.html",
+		"/home/andre/Área de Trabalho/Lógica/receita.html",
+		"/home/andre/Área de Trabalho/Lógica/login.html",
+		"/home/andre/Área de Trabalho/Lógica/jogo_advinha.html",
+		"/home/andre/Área de Trabalho/Lógica/media_idades_famaliares.html",
+		"/home/andre/Área de Trabalho/Lógica/teste_do_fugencio.html",
+		"/home/andre/Área de Trabalho/Lógica/tchau_button.html",
+		"/home/andre/Área de Trabalho/Lógica/media_dos_eventos.html",
+		"/home/andre/Área de Trabalho/Lógica/jogo_advinha2.html",
+		"/home/andre/Área de Trabalho/Lógica/isNaN.html",
+		"/home/andre/Área de Trabalho/Lógica/tabuada_for.html",
+		"/home/andre/Área de Trabalho/Lógica/carteira_motorista.html",
+		"/home/andre/Área de Trabalho/Lógica/substancia.html",
+		"/home/andre/Área de Trabalho/Lógica/tabuada.html",
+		"/home/andre/Área de Trabalho/Lógica/Tabuada2.html",
+		"/home/andre/Área de Trabalho/Lógica/ano_copa.html",
+		"/home/andre/Área de Trabalho/Lógica/decrescente.html",
+		"/home/andre/Área de Trabalho/Lógica/contador.html",
+		"/home/andre/Área de Trabalho/Lógica/futebol.html",
+		"/home/andre/Área de Trabalho/Lógica/imc2.html",
+		"/home/andre/Área de Trabalho/Lógica/texto@.html",
+		"/home/andre/Área de Trabalho/Lógica/imc.html",
+		"/home/andre/Área de Trabalho/Lógica/mostra_idade2.html",
+		"/home/andre/Área de Trabalho/Lógica/media_geracao.html",
+		"/home/andre/Área de Trabalho/Lógica/diferenca_idade2.html",
+		"/home/andre/Área de Trabalho/Lógica/mensagem.html",
+		"/home/andre/Área de Trabalho/Lógica/diferenca_idade.html",
+		"/home/andre/Área de Trabalho/Lógica/perdro.html",
+		"/home/andre/Área de Trabalho/Lógica/pegadinha.html",
+		"/home/andre/Área de Trabalho/Lógica/idade_filhas.html",
+		"/home/andre/Área de Trabalho/Lógica/calcula_consumo.html",
+		"/home/andre/Área de Trabalho/Lógica/prova.html",
+		"/home/andre/Área de Trabalho/Lógica/calculando_meu_gasto.html",
+		"/home/andre/Área de Trabalho/Lógica/programa.html",
+		"/home/andre/Área de Trabalho/Lógica/texto_puro.html",
+		"/home/andre/Área de Trabalho/Lógica/primeiro_teste.html",
+		"/home/andre/Área de Trabalho/Lógica/tio_ben.html",
+		"/home/andre/Área de Trabalho/Lógica/untitled"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
